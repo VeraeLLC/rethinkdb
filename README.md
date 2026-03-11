@@ -141,3 +141,4 @@ license agreements.
 Where's the changelog?
 ----------------------
 We keep [a list of changes and feature explanations here](NOTES.md).
+# rethink.db
